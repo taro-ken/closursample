@@ -1,0 +1,2 @@
+# closursample
+クロージャーの理解
